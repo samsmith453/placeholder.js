@@ -21,7 +21,7 @@ Accepts an object with a number of options
 
 ## Example
 
-placeholder({
+```placeholder({
 	container: "#formContainer", --> Can be a class, id or HTML tag selector
 	inputs : [ --> an array of objects - each object creates its own input
 		{
@@ -60,4 +60,4 @@ placeholder({
 			alert("click");
 		}
 	}
-})
+})```
