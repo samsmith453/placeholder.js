@@ -1,4 +1,4 @@
-#PLACEHOLDER.JS
+# PLACEHOLDER.JS
 
 Needs JQUERY
 Call inside $(document).ready
@@ -13,7 +13,7 @@ Include Jquery then placeholder.js.
 Inside $(document).ready(function(){...}) call placeholder()
 Accepts an object with a number of options
 
-##Options
+## Options
 
 |Option|Compulsory|Details|
 |------|----------|-------|
