@@ -1,23 +1,16 @@
 # PLACEHOLDER.JS
 
-Needs JQUERY
-Call inside $(document).ready
-Styling attributes with hyphen - put in ""
-required - placeholder, name
-Font-size of placeholder is the height of the input
-Pixels
+Build stylish forms with dynamic placeholders for improved user experience.
+You can find the placeholder.js file here, or use the CDN at:
 
-Creates and styles the inputs.
+## Requirements
 
-Include Jquery then placeholder.js.
-Inside $(document).ready(function(){...}) call placeholder()
-Accepts an object with a number of options
+* Make sure to include Jquery in your HTML file prior to placeholder.js.
+* Call the placeholder function inside $(document).ready(function(){...})
+* Remember to add any styling attributes within quotation marks.
+* The font-size of the placeholder is determined in accordance with the height of the input
+* The use of pixels for styling is recommended
 
-<!-- ## Options -->
-
-<!-- |Option|Compulsory|Details|
-|------|----------|-------|
-|One|Two|Three| -->
 
 ## Example
 
