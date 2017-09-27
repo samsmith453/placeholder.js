@@ -1,7 +1,7 @@
 # PLACEHOLDER.JS
 
 Build stylish forms with dynamic placeholders for improved user experience.
-You can find the placeholder.js file here, or use the CDN at:
+You can find the placeholder.js file here, or use the CDN at: http://www.iamsamsmith.co/cdn/placeholder.js
 
 ## Requirements
 
@@ -35,7 +35,7 @@ $(document).ready(function(){
 					unfocusedTop: 0, --> move the placeholder down X pixels when not focused on input (use negative px for up)
 					unfocusedLeft: 10, --> move the placeholder left X pixels when not focused on input (use negative px for left)
 					focusedTop: 0, --> move the placeholder down X pixels when focused on input (use negative px for up)
-					focusedLeft: 100, --> move the placeholder left X pixels when focused on input (use negative px for left)
+					focusedLeft: 10, --> move the placeholder left X pixels when focused on input (use negative px for left)
 
 					unfocusedColor: "blue", --> the color of placeholder text when not focused
 					focusedColor: "green", --> the color of placeholder text when focused
